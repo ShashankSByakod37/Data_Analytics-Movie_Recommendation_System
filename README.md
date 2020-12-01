@@ -16,4 +16,10 @@
 
 * The file collaborative_filtering_surprise.ipynb contains the model implementation for Recommendation System using **KNN**, which is an **Collaborative-Based Filtering technique**. 
 
+### Model Implemention
 
+* **Recommendation using Cosine Similarity :**
+	It is Content-based filtering technique, wherein we would be finding the similarities between the two vectors (two different rows from the dataset) by applying the cosine of two vectors. Here, as per our data, we use the cast, genre and the keywords (plot of the movie) and cascade them as a single text and use the infamous Tf - Idf transformation to convert the text to vector for further vector calculations.
+
+* **Recommendation using KNN :**
+	KNN falls under the supervised algorithms. We make use of this approach and the data containing the users and their movie ratings. The estimated rating is basically a weighted mean of the ratings the user gave to familar items, weighted by the similarities.
