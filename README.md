@@ -7,7 +7,7 @@
 	* https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 	* https://drive.google.com/drive/folders/1of45AVydAAaDwvQIZWl6Pyj8BkRx8IVM?usp=sharing (Here's the drive link for the entire dataset for our project)
 	
-* After pre-processing, for designing the ** model ** we have saved the dataset in https://drive.google.com/drive/folders/1of45AVydAAaDwvQIZWl6Pyj8BkRx8IVM?usp=sharing over here.
+* After pre-processing, for designing the **Model** we have saved the dataset in https://drive.google.com/drive/folders/1of45AVydAAaDwvQIZWl6Pyj8BkRx8IVM?usp=sharing over here.
 
 * 
 	
