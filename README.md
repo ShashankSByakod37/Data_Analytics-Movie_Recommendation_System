@@ -30,4 +30,3 @@
 	
 	We have used Surprise library for this implementation, which is an Python scikit for Recommendation System.
 	
-	r^ui=∑v∈Nki(u)sim(u,v)⋅rvi∑v∈Nki(u)sim(u,v)
