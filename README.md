@@ -23,3 +23,4 @@
 
 * **Recommendation using KNN :**
 	KNN falls under the supervised algorithms. We make use of this approach and the data containing the users and their movie ratings. The estimated rating is basically a weighted mean of the ratings the user gave to familar items, weighted by the similarities.
+	We have used Surprise library for this implementation, which is an Python scikit for Recommendation System.
