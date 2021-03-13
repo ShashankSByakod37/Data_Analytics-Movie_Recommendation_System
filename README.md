@@ -1,5 +1,5 @@
 # Data Analytics Project
-## Movie Recommendation System
+## Movie Recommendation System using collaborative filtering
 
 ### Description
 * We have taken the movielens dataset, which is available in kaggle:
